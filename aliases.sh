@@ -14,13 +14,16 @@ alias py='python3'
 
 alias adir='cd /etc/apache2/sites-available'
 alias vdir='cd /var/www'
+alias udir='cd /etc/ufw'
 alias aqua='cd /var/www/AquaHQ'
 alias isthicc='cd /var/www/IsThicc.xyz'
 alias bois='cd /var/www/BoisBot'
 
-#############################################################
+# Random Echos
 
-
+alias thicc='''echo """
+😏
+"""'''
 alias doge='''echo """
 doge is omega cute
 """'''
