@@ -41,29 +41,3 @@ xterm*|rxvt*)
 *)
     ;;
 esac
-
-# enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls -a --color=auto'
-    #alias dir='dir --color=auto'
-    #alias vdir='vdir --color=auto'
-
-    alias grep='grep --color=auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
-fi
-
-# some more ls aliases
-#alias ll='ls -alF'
-#alias la='ls -A'
-#alias l='ls -a -CF'
-##alias l='ls -CF'
-#alias py='python3'
-#alias adir='cd /etc/apache2/sites-available'
-#alias vdir='cd /var/www'
-#alias aqua='cd /var/www/AquaHQ'
-#alias isthicc='cd /var/www/IsThicc.xyz'
-#alias bois='cd /var/www/BoisBot'
-
-
