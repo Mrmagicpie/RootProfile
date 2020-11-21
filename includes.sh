@@ -10,6 +10,10 @@ if [ -f /root/root-config/colour.sh ]; then
     . /root/root-config/colour.sh
 fi
 
+if [ -f /root/root-config/ls.sh ]; then
+    . /root/root-config/ls.sh
+fi
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
