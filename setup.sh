@@ -66,6 +66,6 @@ echo "|---------------------------------------------|"
 
 sleep 3
 
-
+# I really like bash scripts, don't judge me
 
 
