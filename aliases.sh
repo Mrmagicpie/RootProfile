@@ -9,6 +9,9 @@ alias l='ls -a -CF'
 # Misc
 
 alias py='python3'
+alias p='python3'
+
+alias mkdir='mkdir -p'
 
 # CD Alternatives
 
