@@ -6,9 +6,9 @@ if [ -f /root/root-config/main.sh ]; then
     . /root/root-config/main.sh
 fi
 
-if [ -f /root/root-config/colour.sh ]; then
-    . /root/root-config/colour.sh
-fi
+#if [ -f /root/root-config/colour.sh ]; then
+#    . /root/root-config/colour.sh
+#fi
 
 if [ -f /root/root-config/ls.sh ]; then
     . /root/root-config/ls.sh

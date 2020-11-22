@@ -19,6 +19,15 @@ alias aqua='cd /var/www/AquaHQ'
 alias isthicc='cd /var/www/IsThicc.xyz'
 alias bois='cd /var/www/BoisBot'
 
+# Random
+
+alias no='echo yes'
+alias yes='echo no'
+
+# Lmao
+
+alias o='sh /root/root-config/scripts/o.sh'
+
 # Random Echos
 
 alias thicc='''echo """
