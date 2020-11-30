@@ -12,6 +12,8 @@ alias py='python3'
 alias p='python3'
 
 alias mkdir='mkdir -p'
+alias c='clear'
+alias bye='exit' # lmao inspired by sftp
 
 # CD Alternatives
 
